@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am mie338 on github.
+  * I am sanson (https://keybase.io/sanson) on keybase.
+  * I have a public key ASCvdGg4ufWJMegCuhAu9VkvAqWYktwnZy6i5ukxAZQRaQo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120af746838b9f58931e802ba102ef5592f02a59892dc27672ea2e6e931019411690a",
+      "host": "keybase.io",
+      "kid": "0120af746838b9f58931e802ba102ef5592f02a59892dc27672ea2e6e931019411690a",
+      "uid": "a9ea15531332b0f7fc0a87ee6d599719",
+      "username": "sanson"
+    },
+    "merkle_root": {
+      "ctime": 1578612002,
+      "hash": "95045d05c98f6ccc6c8145ed7657f04478a8851c58bb24bf67da58e97729e00128789ab36ca7bd13d4b00853e9d97b1ff4ac4fd0440ecc45f80e9579fa8d7e4d",
+      "hash_meta": "873ec6ae1f2a078d848bf49c4a837d94b95e1a799c617608eda7c600337852e2",
+      "seqno": 14161910
+    },
+    "service": {
+      "entropy": "UmklLNY47/0w4ASPNpXN/hNt",
+      "name": "github",
+      "username": "mie338"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.1.1"
+  },
+  "ctime": 1578612274,
+  "expire_in": 504576000,
+  "prev": "b25d1675c2bf8791138199ed2a538f8899b94e775cd7ed8dcb8215514e67d20a",
+  "seqno": 22,
+  "tag": "signature"
+}
+```
+
+with the key [ASCvdGg4ufWJMegCuhAu9VkvAqWYktwnZy6i5ukxAZQRaQo](https://keybase.io/sanson), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgr3RoOLn1iTHoAroQLvVZLwKlmJLcJ2cuoubpMQGUEWkKp3BheWxvYWTESpcCFsQgsl0WdcK/h5ETgZntKlOPiJm5Tndc1+2Ny4IVUU5n0grEII+DsCj+IuSresch20sHJaXlfaCMXx4UsBhd6uvJY0aMAgHCo3NpZ8RANhjmcCTID7uHXBKvox/xfwb54Bx9lUNs+k2KsoWi/1Hf1u8buk5+aK0OH98FWGrfL411squ2ueAmYoTS0y0tDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMt/lLFUeXhN5U1K8O2l/1iaq1kis4AnbTdCb13ZGIg7o3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/sanson
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id sanson
+```
